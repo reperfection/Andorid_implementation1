@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">2020Exams</string>
+    <string name="exam1">Exam1</string>
+    <string name="exam2">Exam2</string>
+    <string name="increase">Increase</string>
+    <string name="decrease">Decrease</string>
+    <string name="number">0</string>
+    <string name="open_alertDialog">Open AlertDialog</string>
+    <string name="confirm">Confirm</string>
+    <string name="doYouWantToDelete">Do you want to delete?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="deletesuccess">삭제성공</string>
+    <string name="deletefail">삭제실패</string>
+</resources>
